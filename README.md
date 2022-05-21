@@ -1,2 +1,0 @@
-# Enduren
-Hosting
